@@ -28,11 +28,6 @@ const Route = () => {
    
   return (
     <NavigationContainer>
-<<<<<<< HEAD
-       
-     < Navigationtab/>
-   
-=======
       <Stack.Navigator
         initialRouteName="Onboarding"
         screenOptions={{
@@ -43,7 +38,6 @@ const Route = () => {
             <Stack.Screen name="Booking" component={Booking} />
             <Stack.Screen name="PersonalDetails" component={PersonalDetails} />
       </Stack.Navigator>
->>>>>>> a5cd12575b35fb19625fca1d31e17a9600055147
     </NavigationContainer>
   );
 };

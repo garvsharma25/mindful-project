@@ -1,7 +1,5 @@
 import {ScrollView, StyleSheet, Text, View} from 'react-native';
 import React, {useEffect, useState} from 'react';
-import firestore from '@react-native-firebase/firestore';
-import Header from './component/Header';
 
 const Placements = () => {
  

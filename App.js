@@ -5,9 +5,7 @@
  * @format
  */
 
-import {PermissionsAndroid, StyleSheet} from 'react-native';
-import React, {useEffect} from 'react';
-import {AlertNotificationRoot} from 'react-native-alert-notification';
+
 import Route from './src/Route';
 
 const App = () => {
